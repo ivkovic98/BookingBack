@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y5PYzYgLYLk1CnV+NAWcIHssqgcswoLV0PD9n+6T8kk=",
+  "Source": "BookingERP.API",
+  "BasePath": "_content/BookingERP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

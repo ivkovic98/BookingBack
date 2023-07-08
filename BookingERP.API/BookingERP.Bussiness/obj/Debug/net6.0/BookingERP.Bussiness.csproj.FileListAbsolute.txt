@@ -1,0 +1,68 @@
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.deps.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\refint\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\ref\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CopyComplete
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.deps.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\ref\BookingERP.Bussiness.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.AssemblyReference.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfoInputs.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfo.cs
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CopyComplete
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\ref\BookingERP.Bussiness.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.deps.json
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.dll
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.dll
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\BookingERP (1)\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.AssemblyReference.cache
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfoInputs.cache
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfo.cs
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CoreCompileInputs.cache
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CopyComplete
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.dll
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\refint\BookingERP.Bussiness.dll
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\BookingERP (1)\BookingERP.Bussiness\obj\Debug\net6.0\ref\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.deps.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\refint\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.Bussiness\obj\Debug\net6.0\ref\BookingERP.Bussiness.dll

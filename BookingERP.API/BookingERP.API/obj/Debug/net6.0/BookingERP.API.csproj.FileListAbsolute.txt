@@ -1,0 +1,324 @@
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.exe
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.deps.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\scopedcss\bundle\BookingERP.API.styles.css
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\refint\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\obj\Debug\net6.0\ref\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\source\repos\BookingERP\BookingERP.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.exe
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.deps.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.runtimeconfig.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\ref\BookingERP.API.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.API.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.AssemblyReference.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfoInputs.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfo.cs
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\scopedcss\bundle\BookingERP.API.styles.css
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CopyComplete
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\ref\BookingERP.API.dll
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.pdb
+C:\Users\nikol\Downloads\BookingERP\BookingERP.API\obj\Debug\net6.0\BookingERP.API.genruntimeconfig.cache
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\appsettings.json
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.API.exe
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.API.deps.json
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.API.runtimeconfig.json
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.API.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.API.pdb
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Humanizer.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.dll
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\BookingERP (1)\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.AssemblyReference.cache
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfoInputs.cache
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfo.cs
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CoreCompileInputs.cache
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\scopedcss\bundle\BookingERP.API.styles.css
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CopyComplete
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.dll
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\refint\BookingERP.API.dll
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.pdb
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\BookingERP.API.genruntimeconfig.cache
+C:\BookingERP (1)\BookingERP.API\obj\Debug\net6.0\ref\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.API.exe
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.API.deps.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.API.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.API.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Bussiness.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Data.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\bin\Debug\net6.0\BookingERP.Common.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\scopedcss\bundle\BookingERP.API.styles.css
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\refint\BookingERP.API.dll
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.pdb
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\BookingERP.API.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FilipBooking\BookingERP.API\BookingERP.API\obj\Debug\net6.0\ref\BookingERP.API.dll
